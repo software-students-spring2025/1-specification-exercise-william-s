@@ -65,7 +65,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. **As a busy professional,** I want to select a quick workout plan so that I can stay fit despite my tight schedule.  
+![Activity Diagram 1](AD1.png)
+
 
 ## Clickable Prototype
 
