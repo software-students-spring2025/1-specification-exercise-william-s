@@ -65,8 +65,8 @@ A little exercise to get started with the specification phase of the software de
 ## Activity Diagrams
 
 1. **User Story 9: As a busy professional,** I want offline workout plan access so that I can exercise even when traveling.
- 
-![Activity Diagram 1](AD1.png)
+
+![Activity Diagram 1](AD-fix.png)
 
 2. **User Story 11:As a beginner,**  I want to set up a goal for lose weight so that I know the amount of exercise I need each week.  
 ![Activity Diagram 2](AD2.png)
