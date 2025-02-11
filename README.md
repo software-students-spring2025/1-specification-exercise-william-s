@@ -69,7 +69,7 @@ A little exercise to get started with the specification phase of the software de
 ![Activity Diagram 1](AD-fix.png)
 
 2. **User Story 11:As a beginner,**  I want to set up a goal for lose weight so that I know the amount of exercise I need each week.  
-![Activity Diagram 2](AD-fix2.png)
+![Activity Diagram 2](AD-fix3.png)
 
 ## Wireframe diagrams:
 [Link to Wireframes](https://www.figma.com/design/jLahPD1a4GgcxqbHksqPb8/Gymer?node-id=0-1&t=fpohUI68ZDmrSNEs-1)
