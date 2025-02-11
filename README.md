@@ -71,4 +71,4 @@ A little exercise to get started with the specification phase of the software de
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Link to Prototype](https://www.figma.com/proto/jLahPD1a4GgcxqbHksqPb8/Gymer?node-id=0-1&t=NE3h3nMLV5fFg5p3-1)
