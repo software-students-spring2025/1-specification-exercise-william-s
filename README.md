@@ -67,6 +67,8 @@ A little exercise to get started with the specification phase of the software de
 1. **As a busy professional,** I want to select a quick workout plan so that I can stay fit despite my tight schedule.  
 ![Activity Diagram 1](AD1.png)
 
+2. **As a beginner,**  I want to set up a goal for lose weight so that I know the amount of exercise I need each week.  
+![Activity Diagram 2](AD2.png)
 
 ## Clickable Prototype
 
