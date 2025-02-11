@@ -42,7 +42,6 @@ A little exercise to get started with the specification phase of the software de
 4. Unsure which exercises are best for beginners.
 
 ## Product Vision Statement
-## Product Vision Statement
 **Gymer is a mobile fitness app that provides structured, time-efficient, and flexible workout solutions tailored to the busy schedules of professionals and students, enabling them to maintain consistency, reduce stress, and achieve their health goals through guided exercises, progress tracking, and smart reminders.**
 
 ## User Requirements
